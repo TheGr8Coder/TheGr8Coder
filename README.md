@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Rushil Omar, generally known as TheGr8Coder. I like to code. I am learning SQL And Databases.
-I know HTML&CSS As well as Python & Js(JavaScript). I am currently working on the-coder.ninja(theghostdestroyer) and ofcourse, Me.
-My current biggest project is Me(rushil.ninja). You can contact me @ mail@rushil.ninja. 
+I know HTML&CSS As well as Python & Js(JavaScript). I am currently working on https://the-coder.ninja/ (theghostdestroyer) and ofcourse, Me.
+My current biggest project is Me(https://rushil.ninja/). You can contact me @ mail@rushil.ninja. 
 Don't forget to fork me! (btw, I don't know the meaning of fork. I guess it's duplicating it???)
 
 Don't worry, I will be updating this regularly!
