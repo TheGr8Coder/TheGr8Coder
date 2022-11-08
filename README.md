@@ -13,3 +13,5 @@
 Don't worry, I will be updating this regularly! :) <br> <br>
 
 ![](https://komarev.com/ghpvc/?username=TheGr8Coder&color=038387)
+<br><br>
+<h1>FOLLOW , <em>STAR AND FORK <strong>ME Repository</strong></em><br> Or Else...</h1>
