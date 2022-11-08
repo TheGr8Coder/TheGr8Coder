@@ -12,7 +12,7 @@
 <br>
 Don't worry, I will be updating this regularly! :) <br> <br>
 
-![](https://komarev.com/ghpvc/?username=TheGr8Coder&color=038387)
+![](https://komarev.com/ghpvc/?username=TheGr8Coder&color=038387&label=Total+Profile+Visits!+:))
 <br><br>
 <h1>FOLLOW ME, <em>STAR AND FORK </em><u>ME Repository</u><br> Or Else... (Don't Scroll Down)</h1><br><br><br><br>
 i'm just kidding lol <br>
