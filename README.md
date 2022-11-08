@@ -12,4 +12,4 @@
 <br>
 Don't worry, I will be updating this regularly! :) <br> <br>
 
-![Total Profile Visits! :)](https://komarev.com/ghpvc/?username=TheGr8Coder)
+![Total Profile Visits! :)](https://komarev.com/ghpvc/?username=TheGr8Coder&color=038387)
