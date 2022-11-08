@@ -11,4 +11,5 @@
 <br>
 Don't worry, I will be updating this regularly! :) <br> <br>
 <h2> My Profile Visits! :) </h2>
+
 ![Visitor Count](https://profile-counter.glitch.me/TheGr8Coder/count.svg)
