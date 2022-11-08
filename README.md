@@ -10,3 +10,5 @@
 ⚡Fun Fact, I don't know the meaning of fork. I guess it's duplicating it???⚡<br>
 <br>
 Don't worry, I will be updating this regularly! :)
+
+![Visitor Count](https://profile-counter.glitch.me/TheGr8Coder/count.svg)
