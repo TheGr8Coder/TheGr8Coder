@@ -11,6 +11,5 @@
 ⚡Fun Fact, I don't know the meaning of fork. I guess it's duplicating it???⚡<br>
 <br>
 Don't worry, I will be updating this regularly! :) <br> <br>
-<h2> My Profile Visits! :) </h2>
 
-![Visitor Count](https://profile-counter.glitch.me/TheGr8Coder/count.svg)
+![Total Profile Visits! :)](https://komarev.com/ghpvc/?username=TheGr8Coder)
