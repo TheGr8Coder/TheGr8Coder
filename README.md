@@ -14,6 +14,6 @@ Don't worry, I will be updating this regularly! :) <br> <br>
 
 ![](https://komarev.com/ghpvc/?username=TheGr8Coder&color=038387)
 <br><br>
-<h1>FOLLOW ME, <em>STAR AND FORK </em><u>ME Repository</u><br> Or Else...</h1><br><br><br><br>
+<h1>FOLLOW ME, <em>STAR AND FORK </em><u>ME Repository</u><br> Or Else... (Don't Scroll Down)</h1><br><br><br><br>
 i'm just kidding lol <br>
 btw scroll down to see my projects :)
