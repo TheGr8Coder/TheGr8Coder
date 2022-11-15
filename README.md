@@ -10,12 +10,13 @@
 🍴 Don't forget to fork me! 🍴<br>
 ⚡Fun Fact, I don't know the meaning of fork. I guess it's duplicating it???⚡<br>
 <br>
-Don't worry, I will be updating this regularly! :) <br><br>
+Don't worry, I will be updating this regularly! :) <br><br></h4>
+
 ![](https://github-readme-stats.vercel.app/api?username=TheGr8Coder&theme=light&hide_border=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheGr8Coder&theme=light&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGr8Coder&theme=light&hide_border=false&count_private=true&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheGr8Coder)](https://github.com/ryo-ma/github-profile-trophy)
-</h4>
+
 <img src="https://komarev.com/ghpvc/?username=TheGr8Coder&color=038387&label=Total+Profile+Visits!+:)" width="226" height="30">
 <br><br>
 <h1>FOLLOW ME, <em>STAR AND FORK </em><u>ME Repository</u><br> Or Else... (Don't Scroll Down)</h1><br><br><br><br>
