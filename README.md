@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegr8coder" alt="thegr8coder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arkfoxxyt" target="blank"><img src="https://img.shields.io/twitter/follow/arkfoxxyt?logo=twitter&style=for-the-badge" alt="arkfoxxyt" /></a> </p>
+<a class="github-button" href="https://github.com/TheGr8Coder" aria-label="Follow @TheGr8Coder on GitHub">Follow @TheGr8Coder</a> <br>
+<a class="github-button" href="https://github.com/TheGr8Coder/ME" data-icon="octicon-star" aria-label="Star TheGr8Coder/ME on GitHub">Star</a>
 
 - 🔭 I’m currently working on [Me](https://thegr8coder.github.io/Me)
 
