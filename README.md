@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/thegr8coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thegr8coder" height="30" width="40" /></a>
-<a href="https://dev.to/thegr8coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thegr8coder" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/thegr8coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thegr8coder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rushilomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rushilomar" height="30" width="40" /></a>
+<a href="https://codepen.io/thegr8coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="thegr8coder" height="30" width="40" /></a>
+<a href="https://dev.to/thegr8coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="thegr8coder" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/thegr8coder" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="thegr8coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@rushilomar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="@rushilomar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
