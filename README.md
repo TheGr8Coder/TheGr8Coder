@@ -10,9 +10,9 @@
 <h3 align="left">Follow And Star My Profile:</h3>
 <a href="https://github.com/TheGr8Coder" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Follow Me On Github
   !" width="40" height="40"/> </a>
-<a href="https://github.com/TheGr8Coder/ME" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Octicons-star.svg" alt="Star Me On Github
+<a href="https://github.com/TheGr8Coder/ME" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/172818/star-outline.svg" alt="Star Me On Github
   !" width="40" height="40"/> </a>
-<a class="github-button" href="https://github.com/TheGr8Coder/ME" data-icon="octicon-star" aria-label="Star TheGr8Coder/ME on GitHub">Star</a>
+
 
 - 🔭 I’m currently working on [Me](https://thegr8coder.github.io/Me)
 
