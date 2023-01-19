@@ -8,10 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegr8coder" alt="thegr8coder" /></a> </p>
 <h3 align="left">Follow And Star My Profile:</h3>
-<a href="https://github.com/TheGr8Coder" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Follow Me On Github
-  !" width="40" height="40"/> </a>
-<a href="https://github.com/TheGr8Coder/ME" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/172818/star-outline.svg" alt="Star Me On Github
-  !" width="40" height="40"/> </a>
+<a href="https://github.com/TheGr8Coder" target="_blank" rel="noreferrer">❤️</a>
+<a href="https://github.com/TheGr8Coder/ME" target="_blank" rel="noreferrer">⭐</a>
 
 
 - 🔭 I’m currently working on [Me](https://thegr8coder.github.io/Me)
