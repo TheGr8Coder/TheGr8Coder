@@ -44,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegr8coder&show_icons=true&locale=en&layout=compact" alt="thegr8coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegr8coderpat_1&show_icons=true&locale=en" alt="thegr8coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegr8coder&show_icons=true&locale=en" alt="thegr8coder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thegr8coder&" alt="thegr8coder" /></p>
