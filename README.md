@@ -8,8 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thegr8coder" alt="thegr8coder" /></a> </p>
 <h3 align="left">Follow And Star My Profile:</h3>
-<a style="text-decoration:none;" href="https://github.com/TheGr8Coder" target="_blank" rel="noreferrer">❤️</a> &nbsp; &nbsp;
-<a style="text-decoration:none;" href="https://github.com/TheGr8Coder/ME" target="_blank" rel="noreferrer">💫⭐✨</a>
+<a href="https://github.com/TheGr8Coder" target="_blank"><img align="center" src="https://www.svgrepo.com/show/13653/like.svg" alt="Follow" height="30" width="40" /></a>
+<a href="https://github.com/TheGr8Coder/ME" target="_blank"><img align="center" src="https://www.svgrepo.com/show/13695/star.svg" alt="Star" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
